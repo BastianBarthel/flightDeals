@@ -6,6 +6,7 @@ SHEET_LINK = os.environ.get("SHEET_LINK")
 
 
 class DataManager:
+    
     def __init__(self):
         self.destination_data = []
 
