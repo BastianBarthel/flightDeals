@@ -1,6 +1,6 @@
 # flightDeals
 
-A Python app that that checks for cheap flight deals to a dynamic number of destinations.
+A Python app that checks for cheap flight deals to a dynamic number of destinations.
 
 ## Services and APIs
 [Tequila by Kiwi](https://tequila.kiwi.com/portal/getting-started)<br>
