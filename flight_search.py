@@ -8,6 +8,7 @@ FLIGHT_API_KEY = os.environ.get("TEQUILA_API_KEY")
 
 
 class FlightSearch:
+    
     def get_iata(self, city):
         flight_headers = {"apikey": FLIGHT_API_KEY}
         flight_params = {
